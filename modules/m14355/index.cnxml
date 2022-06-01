@@ -1,0 +1,446 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+<title>Buckyballs: Their history and discovery</title>
+<metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>4a177b0e-1228-41d4-9d62-d4f0a9a3f335</md:uuid>
+</metadata>
+<content>
+
+
+<note id="idp1580784">This module was developed as part of a Rice University Class called "<link url="http://frazer.rice.edu/nanotech">Nanotechnology: Content and Context</link>" initially funded by the National Science Foundation under Grant No. EEC-0407237.  It was conceived, researched, written and edited by students in the Fall 2005 version of the class, and reviewed by participating professors.</note><para id="id29219069"><quote display="inline" class="no-marks">“This year's Nobel Prize in Chemistry has
+implications for all the natural sciences. The seeds of the
+discovery were sowed by a desire to understand the behavior of
+carbon in red giant stars and interstellar gas clouds. The
+discovery of fullerenes has expanded our knowledge and changed our
+thinking in chemistry and physics. It has given us new hypotheses
+on the occurrence of carbon in the universe. It has also led us to
+discover small quantities of fullerenes in geological formations.
+Fullerenes are probably present in much larger amounts on earth
+than previously believed. It has been shown that most sooty flames
+contain small quantities of fullerenes. Think of this the next time
+you light a candle!”</quote></para>
+<para id="id29575508"><cite><cite-title>-From the presentation speech for the Nobel
+Prize in Chemistry, 1996</cite-title></cite></para>
+<section id="intro"><title>Introduction</title>
+<para id="id29219086">In 1996, the Royal Swedish Academy of
+Sciences awarded the Nobel Prize in Chemistry, the most prestigious
+award in the world for chemists, to Richard Smalley, Robert Curl,
+and Harold Kroto for their discovery of fullerenes. They discovered
+fullerenes (also called buckyballs) in 1985, but the special
+properties of the buckyballs took a few years to prove and
+categorize. Although by 1996 no practical applications of
+buckyballs had been produced, scientists appreciated the direction
+this discovery based in organic chemistry had led scientific
+research, as well as its specific contributions to various other
+fields. The accidental discovery of fullerenes also emphasizes the
+benefits and unexpected results which can arise when scientists
+with different backgrounds and research aims collaborate in the
+laboratory.</para></section>
+<section id="what"><title>What are Buckyballs?</title>
+<para id="id29413028">Before going into detail about the actual
+buckyball, we should discuss the element that makes its structure
+possible, carbon. Carbon is the sixth element on the periodic
+table, and has been found to be at least a partial constituent in
+over 90 per cent of all chemicals known to man. Indeed, its
+electron-bonding properties grant it a versatility specific to
+carbon, allowing it to be so widely functionalized, and more
+importantly, the reason for life on Earth. Anything that is living
+is necessarily chemically based on Carbon atoms, and for this
+reason, substances containing carbon are called organic compounds,
+and the study of them is called organic chemistry.</para>
+<para id="id27949368">Though carbon is involved in chemistry with
+all sorts of other elements and compounds, it can also exist in
+pure carbon states such as graphite and diamond. Graphite and
+diamond are two different allotropes of carbon. An allotrope is a
+specific physical arrangement of atoms of an element. So although
+diamond and graphite are both pure carbon, because the crystalline
+structure of each is significantly different, their chemical and
+physical properties (as well as value) are very different.</para>
+<para id="id29496457">Above: diamond Below: carbon. Notice how the
+structure of the two allotropes vary, even though they are both
+made of the same carbon atoms (black)
+
+<figure id="id28752128">
+<media id="idp2137856" alt=""><image src="../../media/Graphic1.jpg" mime-type="image/jpeg"/></media>
+<caption> Images from <link url="http://www.science.org.au/nova/024/024print.htm">The Austrailian Academy of  Science</link></caption>
+</figure>
+<figure id="id29489498">
+<media id="idp4750272" alt=""><image src="../../media/Graphic2.jpg" mime-type="image/jpeg"/></media>
+</figure></para>
+<para id="id29398285">Diamond and graphite are not the only known
+allotropes pf carbon, chaoit and carbon(VI), discovered in 1968 and
+1972, respectively, have also been found. Even more recently, the
+Buckminsterfullerenes, the subject of this module, were discovered
+at Rice by Smalley, Kroto,and Curl. Buckminsterfullerenes is
+actually a class of allotropes</para>
+<para id="id12766096">Above: C540 Below: C60 Both of these are
+different allotropes of carbon. C60 is the most common and the most
+popularized of the Buckminsterfullerenes. Not shown is the second
+most common <link url="http://en.wikipedia.org/wiki/Buckyball">Buckyball, C70</link>.
+<figure id="id29393837">
+<media id="idm1980000" alt=""><image src="../../media/Graphic31.png" mime-type="image/png"/></media><caption>The Icosahedral Fullerene C540</caption>
+</figure>
+<figure id="id28076336"><media id="idm8125744" alt=""><image src="../../media/Graphic41.png" mime-type="image/png"/></media>
+</figure></para>
+<para id="id26278526">In fact, scientists have now discovered
+hundreds of buckyballs of different sizes, all with the trademark
+spherical-like shape. To differentiate them, each allotrope is
+denoted as C (for carbon) with the number of carbon atoms in the
+subscript (i.e. C80). Technically, the geometrical shapes that
+these buckyballs share are actually known as geodesics, or rather,
+polyhedrons that approximate spheres. Specifically, the commonly
+depicted C60 buckyball is a truncated icosahedron. A more
+satisfactory representation of it can be had in a soccer ball, with
+which it shares the exact same shape. It is made up of 12
+pentagons, each surrounded by 5 hexagons (20 in all).</para></section>
+<section id="disc"><title>The Discovery</title>
+<para id="id29489685">British chemist Harold W. Kroto at the
+University of Sussex was studying strange chains of carbon atoms
+found in space through microwave spectroscopy, a science that
+studies the absorption spectra of stellar particles billions of
+kilometers away to identify what compounds are found in space. This
+is possible because every element radiates a specific frequency of
+light that is unique to that element, which can observed using
+radiotelescopes. The elements can then be identified because a
+fundamental rule of matter stating that the intrinsic properties of
+elements apply throughout the universe, which means that the
+elements will emit the same frequency regardless of where they are
+found in the universe. Kroto took spectroscopic readings near
+carbon-rich red giants, or old stars with very large radii and
+relatively low surface temperatures, and compared them to spectrum
+lines of well-characterized substances. He identified the dust to
+be made of long alternating chains of carbon and nitrogen atoms
+known as cynopolyynes, which are also found in interstellar clouds.
+However Kroto believed that the chains were formed in the stellar
+atmospheres of red giants and not in interstellar clouds, but he
+had to study the particles more closely.</para>
+<para id="id29404578">At the same time, Richard Smalley was doing
+research on cluster chemistry, at Rice University in Houston,
+Texas. “Clusters” are aggregates of atoms or molecules, between
+microscopic and macroscopic sizes, that exist briefly. Smalley had
+been studying clusters of metal atoms with the help of Robert Curl,
+using an apparatus Smalley had in his laboratory. This
+laser-supersonic cluster beam apparatus had the ability to vaporize
+nearly any known material into plasma using a laser, which is a
+highly concentrated beam of light with extremely high
+energy.</para>
+<para id="id29599934">Through an acquaintance with Curl, Kroto
+contacted Smalley and discussed the possibility of using his
+apparatus to recreate the high-heat conditions of a red giant’s
+atmosphere in order to study the clusters of carbon produced, which
+might give Kroto insight as to the formation of the carbon chains.
+Smalley conceded and Kroto arrived in Smalley’s laboratory in Rice
+University on September 1, 1985 whom began working on the
+experiment along with graduate students J.R. Heath and S.C.
+O’Brien.</para>
+<figure id="id29575813"><media id="idp149088" alt=""><image src="../../media/Graphic5.png" mime-type="image/png"/></media>
+<caption><link url="http://www.chem.wisc.edu/~newtrad/CurrRef/BDGTopic/BDGFigs/2_1SmalApp.gif">Smalley’s apparatus</link></caption></figure>
+
+<para id="id16733046">Smalley’s apparatus, shown above, fires a
+high energy laser beam at a rotating disk of graphite in a
+helium-filled vacuum chamber. Helium is used because it is an inert
+gas and therefore does not react with the gaseous carbon. The
+intense heating of the surface of the graphite breaks the C—C bonds
+because of the intense energy. Once vaporized, the carbon atoms
+cool and condense in the high-pressure helium gas, colliding and
+forming new bond arrangements. Immediately upon cooling several
+degrees above absolute zero in a chamber, the carbon leads to a
+mass spectrometer for further analysis.</para>
+<para id="id29596826">A mass spectrometer uses an atom or
+molecule’s weight and electric charge to separate it from other
+molecules. This is done by ionizing the molecules, which is done by
+bombarding the molecules with high energy electrons which then
+knocks off electrons. If an electron is removed from an otherwise
+neutral molecule, then the molecule becomes a positively charged
+ion or cation. The charged particles are then accelerated by
+passing through electric plates and then filtered through a slit. A
+stream of charged particles exits the slit and is then deflected by
+a magnetic field into a curved path. Because all the particles have
+a charge of +1, the magnetic field exerts the same amount of force
+on them, however, the more massive ions are deflected less, and
+thus a separation occurs. By adjusting the strength of the
+accelerating electric plates or the deflecting magnetic field, a
+specific mass can be selected to enter the receptor on the end.
+After adjusting the experiment, it became greatly evident that the
+most dominant molecule measured was 720 amu (atomic mass units). By
+dividing this number by the mass of a single carbon atom (12 amu),
+it was deduced that the molecule was comprised of 60 carbon atoms
+(720 / 12 = 60).</para>
+<para id="id29667583"><figure id="id29497622"><media id="idm2851072" alt=""><image src="../../media/Graphic6.png" mime-type="image/png"/></media>
+<caption><link url="http://www.chem.wisc.edu/~newtrad/CurrRef/BDGTopic/BDGFigs/2_1SmalApp.gif">University of Wisconsin</link></caption></figure></para>
+<para id="id29820831">The next task was to develop a model for the
+structure of C60, this new allotrope of carbon. Because it was
+overwhelmingly dominant, Smalley reasoned the molecule had to be
+the very stable. The preferred geometry for stable molecule would
+reasonably be spherical, because this would mean that all bonding
+capabilities for carbon would be satisfied. If it were a chain or
+sheet like graphite, the carbon atoms could still bond at the ends,
+but if it were circular all ends would meet. Another hint as to the
+arrangement of the molecule was that there must be a high degree of
+symmetry for a molecule as stable as C60. Constructing a model that
+satisfied these requirements was fairly difficult and the group of
+scientists experimented with several models before coming to a
+conclusion. As a last resort, Smalley made a paper model by cutting
+out paper pentagons and hexagons in which he tried to stick them
+together so that the figure had 60 vertices. Smalley found that he
+create a sphere made out of 12 pentagons interlocking 20 hexagons
+to make a ball. The ball even bounced. To ensure that the shape
+fulfilled the bonding capabilities of carbon, Kroto and Curl added
+sticky labels to represent double bonds. The resulting shape is
+that of a truncated icosahedron, the same as that of a soccer ball.
+Smalley, Curl, and Kroto named the molecule buckminsterfullerene
+after the American architect and engineer Richard Buckminster
+Fuller who used hexagons and pentagons for the basic design of his
+geodesic domes.</para>
+<para id="id12740947">Eleven days after they had begun, the
+scientist submitted their discovery to the prestigious journal
+Nature in a manuscript titled “C60 Buckminsterfullerene.” The
+journal received it on the 13th of September and published it on
+the 14th of November 1985. The controversial discovery sparked
+approval and criticism for a molecule that was remarkably
+symmetrical and stable.</para></section>
+<section id="made"><title>How Buckyballs are made?</title>
+<para id="id29819603">Experimentally, Smalley, Kroto, and Curl,
+first created the buckyballs using Smalley’s laser-supersonic
+cluster beam apparatus to knock carbons off of a plate and into a
+high pressure stream of helium atoms. They would be carried off and
+immediately be cooled to only a few degrees above absolute zero,
+where they would aggregate and form these buckyballs. This method
+however, resulted in low yields of buckyballs, and it took nearly
+five years until in 1990 newer methods developed by American and
+German scientists could manufacture buckyballs in large
+quantities.</para>
+<para id="id29449039">The common method today involves transmitting
+a large current between two graphite electrodes in an inert
+atmosphere, such as Helium. This gives rise to a carbon plasma arc
+bridging the two electors, which cools instantaneously and leaves
+behind a sooty residue from which the buckyballs can be
+extracted.</para>
+<para id="id29449049">These methods of producing buckyballs do
+deserve a great deal of applaud. However, humans cannot take all,
+or even most of, the credit for the production of fullerenes. As a
+matter of fact, buckyballs occur in nature, naturally, and in
+greater amounts than expected. Buckyballs are known to exist in
+interstellar dust and in geological formations on Earth. Even
+closer to home are the buckyballs that naturally form in the wax
+and soot from a burning candle, as the flame on the wick provides
+the sufficient conditions for such processes to occur. Buckyballs
+are the new sensation for us, but to Nature, they are old
+news.</para></section>
+<section id="properties"><title>Chemical and Physical Properties</title>
+<para id="id29306115">Since buckyballs are still relatively new,
+there properties are still being heavily studied. Buckyballs’
+unique shape and electron bonding give them interesting properties
+on the physical level, and on the chemical level.</para>
+<para id="id29669012">Since spheres in nature are known to be the
+most stable configurations, one could expect the same from
+fullerenes. Indeed this is one of the reasons why Smalley, Curl,
+and Kroto initially considered its shape. Their tests showed that
+it was extremely stable, and thus, they reasoned, it could be a
+spherical-like geodesic. Also, fullerenes are resilient to impact
+and deformation. This means, that squeezing a buckyball and then
+releasing it would result in its popping back in shape. Or perhaps,
+if it was thrown against an object it would bounce back; ironically
+just like the very soccer ball it resembles.</para>
+<para id="id29092627">Buckyballs are also extremely stable in the
+chemical sense. Since all the carbon-carbon bonds are optimized in
+their configuration, they become very inert, and are not as prone
+to reactions as other carbon molecules. What makes these bonds
+special is a property called aromaticity. Normally, electrons are
+fixed in whatever bond they constitute. Whereas in aromatic
+molecules, of which hexagonal carbon rings are a prime example,
+electrons are free to move (“delocalize”) among other bonds. Since
+all the fullerenes have the cyclo-hexanes in abundance, they are
+very aromatic, and thus have very stable, inert, carbon bonds.
+Buckyballs, though sparingly soluble in many solvents, are in fact
+the only known carbon allotropes to be soluble.</para>
+<para id="id26295325">An interesting feature of Fullerenes is that
+their hollow structure allows them to hold other atoms inside them.
+The applications of this are abound, and are being studied to great
+extent.</para>
+<para id="id29362182">Important to note about any new material is
+its health concerns. Although believed to be relatively inert,
+experiments by Eva Oberdörster at Southern Methodist University,
+presented some possible dangers of fullerenes. She introduced
+buckyballs into water at concentrations of 0.5 parts per million,
+and found that largemouth bass suffered a 17-fold increase in
+cellular damage in the brain tissue after 48 hours. The damage was
+of the type lipid peroxidation, which is known to impair the
+functioning of cell membranes. Their livers were also inflamed and
+genes responsible for producing repair enzymes were activated. As
+of 10/20/05, the SMU work had not been peer reviewed.</para></section>
+
+<section id="science"><title>What have buckyballs contributed to
+science?</title>
+<para id="id29307258">After the astrophysicists D.R. Huffmann and
+W. Kratschmer managed to produce larger quantities of fullerenes in
+1990, scientists further investigated the structure and
+characteristics of buckyballs. Research on buckyballs has led to
+the synthesis of over 1000 new compounds with exciting properties,
+and over 100 patents related to buckyballs have been filed in the
+US. In addition, an important new material, nanotubes, has exploded
+onto the scientific scene in recent years. The discovery and
+manufacture of nanotubes resulted directly from research on
+buckyballs. Finally, although buckyballs have not yet been used in
+any practical applications, partly due to the high cost of
+material, researchers are using buckyballs to learn more about the
+history of our world, and companies are devising some interesting
+uses for buckyballs even today.</para></section>
+<section id="tubes"><title>Nanotubes</title>
+<figure id="id29634880">
+<media id="idm2953008" alt=""><image src="../../media/Graphic7.png" mime-type="image/png"/></media>
+</figure>
+<para id="id29822520">The discovery of nanotubes in 1991 by S. Iijima has been
+by far the buckyball’s most significant contribution to current
+research. Nanotubes, both single- and multi-walled, can be thought
+of as sheets of graphite rolled into cylinders and sometimes capped
+with half-fullerenes. Nanotubes, like fullerenes, possess some very
+unique properties, such as high electrical and thermal
+conductivity, high mechanical strength, and high surface area. In
+fact, carbon nanotubes provide a clear example of the special
+properties inherent at the quantum level because they can act as
+either semi-conductors or metals, unlike macroscopic quantities of
+carbon molecules. These properties make nanotubes extremely
+interesting to researchers and companies, who are already
+developing many potentially revolutionary uses for them.</para></section>
+<section id="teaching"><title>What are buckyballs teaching us about our
+world?</title>
+<para id="id29280105">
+<!--Sorry, this media type is not supported.-->A paper published on
+March 28, 2000 in the Proceedings of the National Academy of
+Sciences (PNAS) by Becker, Poreda, and Bunch uses buckyballs to
+provide new evidence for early periods in earth’s geological and
+biological history. By exploiting the unique properties of
+buckyballs, these three scientists were able to study geology in a
+new way. First of all, the unique ability to extract fullerenes
+(unlike graphite and diamond) from organic solvents allowed them to
+isolate carbon material in the meteorites, then the unique
+cage-like structure of fullerenes allowed them to investigate the
+noble gases enclosed within the ancient fullerenes. In their study,
+the researches found helium of extraterrestrial origin trapped
+inside buckyballs extracted from two meteorites and sedimentary
+clay layers from 2 billion and 65 million years ago respectively.
+The helium inside these buckyballs bears unusual ratios of 3He/4He
+coupled with non-atmospheric ratios of 40Ar/36Ar, which according
+to their research indicates extraterrestrial origin. In addition,
+they have shown that these fullerenes could not have been formed
+upon impact of the meteorite or during subsequent forest
+fires.iBecker, Poreda, and Bunch. 2982.</para>
+<para id="id4429951">The discovery of the extraterrestrial origin
+of the enclosed helium has far-reaching implications for the
+history of the earth. For example, the existence of the carrier
+phase of fullerenes suggests that “fullerenes, volatiles, and
+perhaps other organic compounds were being exogenously delivered to
+the early Earth and other planets throughout time.”iiBecker,
+Poreda, and Bunch, 2982. With more research, it might even be
+possible to determine whether meteorite impacts on earth could have
+triggered global changes or even brought carbon and gases to earth
+that allowed for the development of life!</para></section>
+<section id="use"><title>Uses</title>
+<para id="id29442552">Why does it matter? Why should anyone care?
+These buckyballs are giving scientists information about allotropes
+of carbon never before conceived. More importantly, these
+buckyballs might allow engineers and doctors do what was never
+before possible. These are some of the applications for buckyballs
+currently in research.</para>
+<para id="id12854817">
+<emphasis>Medical uses for buckyballs</emphasis></para>
+
+<figure id="id12854820">
+<media id="idm2812720" alt=""><image src="../../media/Graphic9.png" mime-type="image/png"/></media>
+</figure><para id="balls"><title>Drug Treatments</title>Buckyballs are now being considered for uses in the field
+of medicine, both as diagnostic tools and drug candidates. Simon
+Friedman, a researcher at the University of Kansas, began
+experimenting with buckyballs as possible drug treatments in 1991.
+Because buckyballs have a rigid structure (unlike benzene rings,
+often used for similar purposes), researchers are able to attach
+other molecules to it in specific configurations to create precise
+interactions with a target molecule. For example, Friedman has
+created a protease inhibitor that attaches to the active site of
+HIV 50 times better than other molecules. C Sixty, a Toronto based
+company that specializes in medical uses of fullerenes, plans to
+test on humans two new fullerene-based drugs for Lou Gehrig’s
+disease and HIV in the near future.</para>
+
+<para id="id28934787"><title>Gadolinium Carriers</title>Another medical use for buckyballs is taking
+place in the field of diagnostics. Buckyballs unique cage-like
+structure might allow it to take the place of other molecules in
+shuttling toxic metal substances through the human body during MRI
+scans. Usually, the metal gadolinium is attached to another
+molecule and sent into the body to provide contrast on the MRI
+scans, but unfortunately these molecules are excreted from the
+system quickly to reduce the chance of toxic poisoning in the
+subject. Lon Wilson of Rice University and researchers at TDA
+Research have encased gadolinium inside buckyballs, where they
+cannot do harm to the patient, allowing them to remain inside the
+body longer, but still appear in MRI’s. So far this application has
+been successfully tested in one rat. Wilson and others have begun
+to develop even more applications for the tiny little cages that
+could one day help revolutionize
+medicine.</para>
+
+<para id="id12805621"><emphasis>Engineering Uses</emphasis></para>
+
+<para id="id29881922"><title>Nano STM</title>
+
+The Scanning Tunneling Microscope (STM) is one of the foremost tools in microscopy today; boasting the ability to to map out the topology of material surfaces at atomic resolution (i.e. on the order of 0.2 nanometers). The STM achieves this feat by bringing a needle point, functioning as a probe, within just several nanometers of a sample's surface. At these minute scales, even small disturbances can cause the tip to crach into the sample and deform itself. A possible solution to this problem would be the replacement of the standard needle point with a buckyball. As discussed previously, fullerenes bear amazing resilience due to their spherical geometry, and would resist distortions from such collisions.</para>
+
+<para id="id16521939"><title>Buckyballs in circuits</title>European scientists are aiming to use
+buckyballs in circuit. So far, they have been able to attach a
+single fullerene to a copper surface, and then, through a process
+called shrink wrapping, fitted its center with a metal ion and made
+it smaller to increases electric conductivity by a hundred
+times.</para>
+
+<para id="id29218895"><title>Lubricants</title>Because of their shapes, they could be used
+equivalently to ball bearings, and thus allow surfaces to roll over
+each other, making the fullerenes equivalently lubricants</para>
+
+<para id="id28380557"><title>Superconductors</title>It has been shown that fitting a potassium
+ion in the buckyball causes it to become superconductive. Ways to
+exploit this are in the research stages.</para>
+
+<para id="id4429334"><title>Catalysts</title>Attaching metals onto the surface of
+fullerenes offers the possibility for buckyballs to become
+catalysts.</para></section>
+<section id="conculsion"><title>Conclusion</title>
+<para id="id29119208">As we can see, we have come along way since
+that fateful year of 1985. Strides have been made. We have seen the
+rise of nanotubes and the new science of Nanotechnology. We are
+still studying the chemical and physical properties of buckyballs
+and continue to be amazed. They have already proved to us why they
+are important; their possible uses in medicine and in engineering
+are broad and profound, while the health risks they posed have yet
+to be fully analyzed. Only time will tell whether they will meet,
+or exceed our expectations as we unfold this brave new
+world.</para></section>
+<section id="bib"><title>Bibliography</title>
+<para id="id29822424">Nobelprize.org:
+http://nobelprize.org/chemistry/laureates/1996/press.html</para>
+<para id="id29822433">
+http://www.science.org.au/nova/024/024print.htm</para>
+<para id="id8836131">
+http://blogcritics.org/archives/2004/04/10/084049.php</para>
+<para id="id8836139">
+http://www.science.org.au/nova/024/024key.htm</para>
+<para id="id8836147">
+http://www.sciencedaily.com//releases/2003/04/030418081522.htm</para>
+<para id="blue">http://www.sciencenews.org/articles/20020713/bob10.asp</para>
+<para id="id29450591">Gorman, Jessica. Buckymedicine: Coming soon
+to a pharmacy near you?. Science News Online: July 13, 2002, vol.
+162, no. 2.
+http://www.sciencenews.org/articles/20020713/bob10.asp</para>
+<para id="id3701985">Becker, Poreda, and Bunch. Extraterrestrial
+Helium Trapped in Fullerenes in the Sudbury Impact Structure.
+Science, Vol 272, Issue 5259, 249-252 , 12 April 1996.</para><para id="element-490">Personal author: Aldersey-Williams, Hugh.
+               Title: The most beautiful molecule : an adventure in chemistry
+                      / Hugh Aldersey-Williams.
+    Publication info: London : Aurum Press, 1995.
+
+     Personal author: Baggott, J. E.
+               Title: Perfect symmetry : the accidental discovery of
+                      Buckminsterfullerene / Jim Baggott.
+    Publication info: Oxford [England] ; New York : Oxford University Press,
+                      1994.
+</para>
+</section>
+</content>
+</document>
